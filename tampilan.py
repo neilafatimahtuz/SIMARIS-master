@@ -10,7 +10,7 @@ def tampilkan_simores():
 
     # Membuat header dengan pyfiglet
     judul = pyfiglet.figlet_format("+ SIMORES +")
-    subjudul = "Sistem Informasi Manajemen Rumah Sakit"
+    subjudul = "Sistem Informasi Mi Rumah Sakit"
 
     # Menampilkan header dengan warna dan dekorasi
     print(Fore.GREEN + Style.BRIGHT + "+" + "-" * 60 + "+")
